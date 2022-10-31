@@ -1,1 +1,15 @@
-New file
+print("This is the first line")
+age=66
+if age >67:
+    print("Hi")
+
+def newsub():
+    print("Hi")
+    print("We all live in a")
+    print("Yellow Submarine")
+
+newsub()
+
+import random
+
+print(random.randint(0,80))
